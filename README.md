@@ -38,6 +38,6 @@
 
 ### Блоги
 
-[MediaToolBox](http://mediatoolbox.ru/)
+- [MediaToolBox](http://mediatoolbox.ru/)
 
 
